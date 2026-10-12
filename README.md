@@ -28,6 +28,7 @@ tabel diatas merupaka representasi nilai vektor dalam ruang R^n
 ---
 
 conclusion
+![result simulation](./finish-kerr-c5c60bbc6c.png)
 - By combining some basic ideas of raytracing, the mathematical foundations of spacetime curvature, and some numerical methods we can create a black hole raytracer and generate images that inform us of what black holes can do to spacetime by visualizing their effects on the light captured by a camera.
 
 ---
